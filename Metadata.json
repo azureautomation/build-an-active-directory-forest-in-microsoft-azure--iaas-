@@ -1,0 +1,20 @@
+{
+    "Author": "Ian Farr [MSFT]",
+    "ContentSize": 87008,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/build-an-active-directory-forest-in-microsoft-azure-(iaas)/master/Azure_AD_Build.ps1",
+    "DownloadCount": 5459,
+    "Id": "Build-AD-Forest-in-Windows-3118c100",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 209,
+    "RaterCount": 4,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-8-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates a Windows Server 2012 R2 Active Directory forest in Microsoft Azure (IaaS). Ideal for testing. Can be executed as an Azure Automation run book or as a stand-alone script.",
+    "Title": "Build an Active Directory Forest in Microsoft Azure (IaaS)",
+    "UpdatedDate": "2016-9-14T00:00:00",
+    "Url": "https://github.com/azureautomation/build-an-active-directory-forest-in-microsoft-azure-(iaas)",
+    "UserTags": "Active Directory, Windows Azure PowerShell, Azure Automation"
+}
